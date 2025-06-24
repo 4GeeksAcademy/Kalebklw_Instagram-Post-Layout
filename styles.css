@@ -1,0 +1,32 @@
+body{
+    background: rgb(153, 149, 149);
+    margin: 0;
+    margin-top: 600px;
+}
+
+.Instagram-Post{
+    width: 600px;
+    margin: auto;
+    background-color: white;
+}
+
+.Post-Header{
+    width: 600px;
+    height: 55px;
+    background: white;
+    display: flex;
+}
+
+.Image-Post img{
+    width: 100%;
+}
+
+.Post-Body .Post-Likes{
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+#Paragraph{
+    padding-left: 8px;
+    padding-right: 8px;
+}
