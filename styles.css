@@ -1,5 +1,5 @@
 body{
-    background: rgb(153, 149, 149);
+    background: black;
     margin: 0;
     margin-top: 600px;
 }
@@ -9,14 +9,14 @@ body{
     margin: auto;
     background-color: white;
     font-family: "Raleway", sans-serif;
-    padding-bottom: 17px;
+    padding-bottom: 30px;
 }
 
 #html5Icon{
     text-align: left;
     font-size: 40px;
-    padding-top: 8px;
-    padding-left: 5px;
+    padding-top: 15px;
+    padding-left: 13px;
 }
 
 .Post-Header{
@@ -24,28 +24,39 @@ body{
     height: 55px;
     background: white;
     display: flex;
+    margin-bottom: 15px;
+}
+
+.Username{
+    padding-left: 11px;
 }
 
 #VerticalDots{
-    font-size: 40px;
-    padding-top: 8px;
-    padding-left: 426px;
+    font-size: 37px;
+    padding-top: 16px;
+    padding-left: 406px;
+    padding-right: 13px;
+}
+
+.Icons{
+    margin-top: 13px;
+    margin-bottom: 29px;
 }
 
 #HeartIcon{
     font-size: 40px;
-    margin-left: 5px;
+    margin-left: 12px;
 }
 
 #BubbleIcon{
     font-size: 40px;
-    margin-left: 5px;
+    margin-left: 8px;
 }
 
 #PlaneIcon{
     font-size: 40px;
-    margin-right: 409px;
-    margin-left: 5px;
+    margin-right: 398px;
+    margin-left: 8px;
 }
 
 #BookmarkIcon{
@@ -57,11 +68,13 @@ body{
 }
 
 .Post-Body .Post-Likes{
-    padding-left: 8px;
-    padding-right: 8px;
+    padding-left: 13px;
+    padding-right: 13px;
+    font-size: 18px;
 }
 
 #Paragraph{
-    padding-left: 8px;
-    padding-right: 8px;
+    padding-left: 13px;
+    padding-right: 13px;
+    font-size: 18px;
 }
